@@ -1,6 +1,6 @@
 # SkyEmu MCP Server
 
-An MCP (Model Context Protocol) server for controlling SkyEmu through natural language commands via Claude or other LLMs.
+An MCP (Model Context Protocol) server for controlling [SkyEmu](https://github.com/skylersaleh/SkyEmu) through natural language commands via Claude or other LLMs.
 
 ## Overview
 
