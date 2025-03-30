@@ -25,6 +25,15 @@ This project provides a bridge between Large Language Models (LLMs) like Claude 
    pip install -r requirements.txt
    ```
 
+3. Add to your claude config
+   ```
+   "skyemu-mcp": {
+      "command": "/Users/wingston/miniconda3/bin/python",
+      "args": [
+        "/Users/wingston/code/claude-plays-pokemon/skyemu-mcp/run_server.py"
+      ]
+    }
+   ```
 ## Usage
 
 ### Setting up SkyEmu
