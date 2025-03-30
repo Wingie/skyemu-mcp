@@ -98,10 +98,10 @@ Here are some examples of natural language commands that Claude can process:
 
 ## License
 
-[Your license information here]
+- MIT License (c) Wingston Sharon
 
 ## Acknowledgments
 
 - SkyEmu for providing the HTTP Control Server API
 - Model Context Protocol for the framework
-- [Add any other acknowledgments]
+- Claude :)

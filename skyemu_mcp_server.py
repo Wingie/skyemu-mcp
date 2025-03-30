@@ -93,7 +93,7 @@ async def get_screenshot() -> str:
     Returns:
         Base64 encoded PNG image of the current screen
     """
-    screen = skyemu.get_screen(embed_state=False)
+    screen = skyemu.get_screen(embed_state=True)
     buffered = BytesIO()
     screen.save(buffered, format="PNG")
     img_str = base64.b64encode(buffered.getvalue()).decode()
